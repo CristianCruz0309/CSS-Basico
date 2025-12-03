@@ -1,0 +1,19 @@
+p {
+    color: red;
+    font-family: Cris;
+    font-size: 13px;
+    font-weight: 900;
+    font-style: italic;
+    text-align: left;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    text-decoration: line-through;
+    color: brown;
+}

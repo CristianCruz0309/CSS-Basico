@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.box1 {
+    background: red;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 50px;
+    margin: 200px;
+}
+
+.box2 {
+    background: red;
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+}
+
+.separador {
+    overflow: hidden;
+}
+
