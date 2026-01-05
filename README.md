@@ -1,5 +1,8 @@
 # 🎨 CSS Básico | Fundamentos del Diseño Web
 
+![CSS3 Badge](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 Repositorio de estudio y práctica enfocado en los **fundamentos esenciales de CSS**, organizado por temas y con ejemplos claros para comprender cómo se construye el diseño visual de una página web.
 
 Este proyecto hace parte de mi camino de aprendizaje en **Desarrollo Front-End**, reforzando bases sólidas para avanzar hacia layouts modernos, responsive design y frameworks.
